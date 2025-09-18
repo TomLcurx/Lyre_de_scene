@@ -4,7 +4,7 @@
 Ce code regroupe les différentes fonctionnalités (steppers, accélération, i-Bus, etc.) pour obtenir un système fonctionnel et complet.
 
 ## Fichier principal
-- `main_complete.c`
+- `main_complet.c`
 
 ## Instructions
 1. Compiler :
