@@ -1,6 +1,6 @@
 # Lyre de scène
 
-Ce repository contient trois parties distinctes, chacune avec son code et sa description.
+Ce repository contient cinq parties distinctes, chacune avec son code et sa description.
 
 ## Structure
 
