@@ -4,10 +4,10 @@ Ce repository contient trois parties distinctes, chacune avec son code et sa des
 
 ## Structure
 
-- [Partie 1](./Partie1) : Cette partie contient le code de test des stepper code.
-- [Partie 2](./Partie2) : Cette partie contient le code de test de l'accélération des stepper.
-- [Partie 3](./Partie3) : Cette partie contient le code de test du i-Bus.
-- [Partie 4](./Partie4) : Cette partie contient le code que Robz veut que je fasse.
+- [Partie 1](./Partie_1) : Cette partie contient le code de test des stepper code.
+- [Partie 2](./Partie_2) : Cette partie contient le code de test de l'accélération des stepper.
+- [Partie 3](./Partie_3) : Cette partie contient le code de test du i-Bus.
+- [Partie 4](./Partie_4) : Cette partie contient le code que Robz veut que je fasse.
 
 ---
 
