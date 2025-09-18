@@ -4,9 +4,10 @@ Ce repository contient trois parties distinctes, chacune avec son code et sa des
 
 ## Structure
 
-- [Partie 1](./Partie1) : Cette partie contient le premier code et son explication.
-- [Partie 2](./Partie2) : Cette partie contient le deuxième code et son explication.
-- [Partie 3](./Partie3) : Cette partie contient le troisième code et son explication.
+- [Partie 1](./Partie1) : Cette partie contient le code de test des stepper code.
+- [Partie 2](./Partie2) : Cette partie contient le code de test de l'accélération des stepper.
+- [Partie 3](./Partie3) : Cette partie contient le code de test du i-Bus.
+- [Partie 4](./Partie4) : Cette partie contient le code que Robz veut que je fasse.
 
 ---
 
@@ -15,10 +16,3 @@ L’objectif de ce projet est de regrouper différentes parties de code liées �
 - Un dossier par partie  
 - Du code + une description (README.md) dans chaque dossier  
 - Un README principal (celui-ci) pour donner la vue d’ensemble
-
----
-
-## Comment utiliser
-1. Choisir une partie (Partie1, Partie2 ou Partie3).  
-2. Lire le `README.md` dans ce dossier pour comprendre le but et comment exécuter le code.  
-3. Lancer le code fourni.
